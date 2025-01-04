@@ -1,0 +1,31 @@
+<details>
+<summary class="linkfont_color">雀活マスターと連携する</summary> 
+アプリを開いてホーム画面で「雀活マスター」をタップしてください。
+<br/>
+連携状態を確認し、雀活マスター側で表示する名前を入力し、「雀活マスター連携登録」をタップしてください。
+<br/>
+※初めての場合、連携状態が未連携で表示されます。
+<br/>
+<img src="./images/jyankatu_1.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+利用規約を確認し、「同意する」をタップしてください。
+<br/>
+<img src="./images/jyankatu_2.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+メールアドレスを入力し、「メールを送信する」をタップしてください。
+<br/>
+※本人認証メールが送信されます。
+<br/>
+<img src="./images/jyankatu_3.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+届いた認証メールの本文にあるURLをクリックし、本人認証を行ってください。
+<br/>
+以下の画面が表示されると、本人認証が完了しましたので、審査完了までお待ちください。
+<br/>
+※本人認証の完了お知らせメールが送信されます。
+<img src="./images/jyankatu_4.PNG" border="1" width="318" height="478" /> 
+<br/>
+</details>

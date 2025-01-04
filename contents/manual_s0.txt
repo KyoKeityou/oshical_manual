@@ -1,0 +1,32 @@
+<details>
+<summary class="linkfont_color">Xアカウントでログイン(初回のみ)</summary> 
+アプリを開いてログイン画面で「X Twitterでログイン」をタップしてください。
+<br/>
+<img src="./images/login_x_1.png" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+「続ける」をタップしてください。
+<br/>
+<img src="./images/login_x_2.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+OSHICALにX(Twitter)へのアクセスを許可する必要があり、「ログイン」をタップしてください。
+<br/>
+<img src="./images/login_x_3.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+Xアカウントで、ログインを行ってください。
+<br/>
+<img src="./images/login_x_4.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+「Authorize app」をタップしてください。
+<br/>
+<img src="./images/login_x_5.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+ホーム画面が表示されます。
+<br/>
+<img src="./images/login_x_6.PNG" border="1" width="318" height="478" /> 
+<br/>
+</details>

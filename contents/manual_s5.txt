@@ -1,0 +1,21 @@
+<details>
+<summary class="linkfont_color">予定を削除する</summary> 
+アプリを開いてホーム画面で「カレンダー」をタップしてください。
+<br/>
+当月のカレンダーと予定一覧が表示されます。
+<br/>
+削除対象の予定をタップし、削除アイコンをタップしてください。
+<br/>
+<img src="./images/calendar_del_1.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+表示されたダイアログを確認し、削除をタップしてください。
+<br/>
+<img src="./images/calendar_del_2.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+予定が削除されます。
+<br/>
+<img src="./images/calendar_del_3.PNG" border="1" width="318" height="478" /> 
+<br/>
+</details>

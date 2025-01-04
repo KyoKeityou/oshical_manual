@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" >
+  <head>
+    <meta charset="utf-8">
+    <title>マニュアル(OSHICAL)</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  </head>
+  <script type="text/javascript" nonce="m2xPOlabtByIMgRE">
+    window.onload = function() {
+      function load(name) {
+        let xhr = new XMLHttpRequest();
+        okStatus = document.location.protocol === "file:" ? 0 : 200;
+        xhr.open("GET", name, false);
+        xhr.overrideMimeType("text/html;charset=utf-8");
+        xhr.send(null);
+        return xhr.status === okStatus ? xhr.responseText : null;
+      }
+      let text0 = load("./contents/manual_s0.txt"); document.getElementById("content0").innerHTML = text0;
+      let text1 = load("./contents/manual_s1.txt"); document.getElementById("content1").innerHTML = text1;
+      let text2 = load("./contents/manual_s2.txt"); document.getElementById("content2").innerHTML = text2;
+      let text3 = load("./contents/manual_s3.txt"); document.getElementById("content3").innerHTML = text3;
+      let text4 = load("./contents/manual_s4.txt"); document.getElementById("content4").innerHTML = text4;
+      let text5 = load("./contents/manual_s5.txt"); document.getElementById("content5").innerHTML = text5;
+      let text6 = load("./contents/manual_s6.txt"); document.getElementById("content6").innerHTML = text6;
+      let text7 = load("./contents/manual_s7.txt"); document.getElementById("content7").innerHTML = text7;
+      let text8 = load("./contents/manual_s8.txt"); document.getElementById("content8").innerHTML = text8;
+      let text9 = load("./contents/manual_s9.txt"); document.getElementById("content9").innerHTML = text9;
+      let text10 = load("./contents/manual_s10.txt"); document.getElementById("content10").innerHTML = text10;
+      let text99 = load("./contents/manual_s99.txt"); document.getElementById("content99").innerHTML = text99;
+    };
+    document.write(
+      '<link href="' + "./manual.css" + '" type="text/css" rel=stylesheet>'
+    );
+  </script>
+  <body　>
+      <div class="policy-outer-frame">
+        <div class="policy-inner-frame">
+          <div class="tiltle_name">アプリの使い方</div>
+          <div class="menu_div"><div id="content0"></div></div> 
+          <div class="menu_div"><div id="content1"></div></div> 
+          <div class="menu_div"><div id="content2"></div></div>
+          <div class="menu_div"><div id="content3"></div></div>
+          <div class="menu_div"><div id="content4"></div></div>
+          <div class="menu_div"><div id="content5"></div></div>
+          <div class="menu_div"><div id="content6"></div></div>
+          <div class="menu_div"><div id="content7"></div></div>
+          <div class="menu_div"><div id="content8"></div></div>
+          <div class="menu_div"><div id="content9"></div></div>
+          <div class="menu_div"><div id="content10"></div></div>
+          <div class="menu_div"><div id="content99"></div></div>
+          </div>
+       </div>
+      </div>
+  </body>
+</html>
+

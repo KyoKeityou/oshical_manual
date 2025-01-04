@@ -1,0 +1,26 @@
+<details>
+<summary class="linkfont_color">予定をコピーする</summary> 
+アプリを開いてホーム画面で「カレンダー」をタップしてください。
+<br/>
+当月のカレンダーと予定一覧が表示されます。
+<br/>
+コピー元の日付をタップし、コピーアイコンをタップし、予定のコピーを行ってください。
+<br/>
+<img src="./images/calendar_copy_1.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+コピー先の日付をタップし、貼り付けアイコンをタップしてください。
+<br/>
+<img src="./images/calendar_copy_2.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+表示されたダイアログを確認し、ペーストをタップしてください。
+<br/>
+<img src="./images/calendar_copy_3.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+選択先の日付に予定がコピーされます。
+<br/>
+<img src="./images/calendar_copy_4.PNG" border="1" width="318" height="478" /> 
+<br/>
+</details>

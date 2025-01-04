@@ -1,0 +1,31 @@
+.policy-outer-frame {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.policy-inner-frame {
+  margin: 0 auto;
+  width: 80%;
+  max-width: 100%;
+  min-width: 320px;
+  text-align: left;
+  overflow-y: auto;
+}
+.tiltle_name {
+  font-size: 32px;
+  font-weight: bolder;
+}
+.linkfont_color {
+  letter-spacing: 0.05em;
+  font-size: 24px;
+}
+.submenu_font {
+  letter-spacing: 0.05em;
+  font-size: 20px;
+}
+.menu_div {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,16 @@
+<details>
+<summary class="linkfont_color">カレンダーから予定の閲覧</summary> 
+アプリを開いてホーム画面で「カレンダー」をタップしてください。
+<br/>
+<img src="./images/home.png" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+当月のカレンダーと予定一覧が表示されます。
+<br/>
+<img src="./images/calendar_monthly.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+※「＜」／「＞」をタップすること、または画面を左／右へスワイプすることで、前月か翌月へ遷移されます。
+<br/>
+※ホームアイコンをタップすると、ホーム画面へ戻ります。
+</details>

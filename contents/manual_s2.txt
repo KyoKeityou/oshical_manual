@@ -1,0 +1,19 @@
+<details>
+<summary class="linkfont_color">カレンダーへ予定の追加</summary> 
+アプリを開いてホーム画面で「カレンダー」をタップしてください。
+<br/>
+当月のカレンダーと予定一覧が表示されます。
+<br/>
+<img src="./images/calendar_add.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+カレンダーの日付をタップし、「＋」アイコンをタップし、予定の追加を行ってください。
+<br/>
+<img src="./images/calendar_create_1.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+予定を入力完了後、登録をタップし、入力内容の登録を行ってください。
+<br/>
+<img src="./images/calendar_create_2.PNG" border="1" width="318" height="478" /> 
+<br/>
+</details>

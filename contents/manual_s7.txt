@@ -1,0 +1,54 @@
+<details>
+<summary class="linkfont_color">予定をピックアップする</summary> 
+アプリを開いてホーム画面で「ピックアップ」をタップしてください。
+<br/>
+当月のカレンダーと予定一覧が表示されます。
+<br/>
+ピックアップ対象を選択し、該当の予定をタップしてください。
+<br/>
+※複数選択可能
+<br/>
+<img src="./images/pickup_1.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+シェアアイコンをタップしてください。
+<br/>
+※「プライベート表示」をチェックすると、プライベートの予定が表示されます。
+<br/>
+<img src="./images/pickup_2.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+ピックアップされた予定が表示されます。
+<br/>
+背景画像を追加する場合、画像アイコンをタップし、写真や画像を選択してください。
+<br/>
+<img src="./images/pickup_3.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+背景図に選択された画像が表示されます。
+<br/>
+<img src="./images/pickup_4.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+「＋」「－」でフォントサイズを調整し、「↑」「↓」で予定の表示位置を調整してください。
+<br/>
+調整完了後、レ点アイコンをタップしてください。
+<br/>
+<img src="./images/pickup_5.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+「選択対象をシェア」をタップしてください。
+<br/>
+<img src="./images/pickup_6.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+シェアする方法やシェア先のアプリを指定してください。
+<br/>
+<img src="./images/pickup_7.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+※例、Xにシェアする場合、Xアプリを選択し、表示されたダイアログに必要な文字を追加し、ポストをタップしてください。
+<br/>
+<img src="./images/pickup_8.PNG" border="1" width="318" height="478" /> 
+<br/>
+</details>

@@ -1,0 +1,36 @@
+<details>
+<summary class="linkfont_color">予定をシェアする</summary> 
+アプリを開いてホーム画面で「カレンダー」をタップしてください。
+<br/>
+当月のカレンダーと予定一覧が表示されます。
+<br/>
+Xアイコンをタップしてください。
+<br/>
+<img src="./images/calendar_share_1.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+シェア対象月に対し、シェア範囲を指定し、プレビューをタップしてください。
+<br/>
+<img src="./images/calendar_share_2.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+シェア対象月のプレビュー画面が開き、レ点アイコンをタップしてください。
+<br/>
+<img src="./images/calendar_share_3.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+シェア対象月が選択された状態で、「選択対象をシェア」をタップしてください。
+<br/>
+<img src="./images/calendar_share_4.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+シェアする方法やシェア先のアプリを指定してください。
+<br/>
+<img src="./images/calendar_share_5.PNG" border="1" width="318" height="478" /> 
+<br/>
+<br/>
+※例、Xにシェアする場合、Xアプリを選択し、表示されたダイアログに必要な文字を追加し、ポストをタップしてください。
+<br/>
+<img src="./images/calendar_share_6.PNG" border="1" width="318" height="478" /> 
+<br/>
+</details>
