@@ -26,6 +26,7 @@
 以下の画面が表示されると、本人認証が完了しましたので、審査完了までお待ちください。
 <br/>
 ※本人認証の完了お知らせメールが送信されます。
+<br/>
 <img src="./images/jyankatu_4.png" border="1" width="318" height="478" /> 
 <br/>
 </details>
