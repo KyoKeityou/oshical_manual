@@ -4,16 +4,16 @@
 <br/>
 当月のカレンダーと予定一覧が表示されます。
 <br/>
-<img src="./images/calendar_update_1.PNG" border="1" width="318" height="478" /> 
+<img src="./images/calendar_update_1.png" border="1" width="318" height="478" /> 
 <br/>
 <br/>
 カレンダーの日付をタップし、鉛筆アイコンをタップし、追加された予定の更新を行ってください。
 <br/>
-<img src="./images/calendar_update_2.PNG" border="1" width="318" height="478" /> 
+<img src="./images/calendar_update_2.png" border="1" width="318" height="478" /> 
 <br/>
 <br/>
 予定を入力完了後、更新をタップし、入力内容の更新を行ってください。
 <br/>
-<img src="./images/calendar_update_3.PNG" border="1" width="318" height="478" /> 
+<img src="./images/calendar_update_3.png" border="1" width="318" height="478" /> 
 <br/>
 </details>

@@ -7,26 +7,26 @@
 <br/>
 「続ける」をタップしてください。
 <br/>
-<img src="./images/login_x_2.PNG" border="1" width="318" height="478" /> 
+<img src="./images/login_x_2.png" border="1" width="318" height="478" /> 
 <br/>
 <br/>
 OSHICALにX(Twitter)へのアクセスを許可する必要があり、「ログイン」をタップしてください。
 <br/>
-<img src="./images/login_x_3.PNG" border="1" width="318" height="478" /> 
+<img src="./images/login_x_3.png" border="1" width="318" height="478" /> 
 <br/>
 <br/>
 Xアカウントで、ログインを行ってください。
 <br/>
-<img src="./images/login_x_4.PNG" border="1" width="318" height="478" /> 
+<img src="./images/login_x_4.png" border="1" width="318" height="478" /> 
 <br/>
 <br/>
 「Authorize app」をタップしてください。
 <br/>
-<img src="./images/login_x_5.PNG" border="1" width="318" height="478" /> 
+<img src="./images/login_x_5.png" border="1" width="318" height="478" /> 
 <br/>
 <br/>
 ホーム画面が表示されます。
 <br/>
-<img src="./images/login_x_6.PNG" border="1" width="318" height="478" /> 
+<img src="./images/login_x_6.png" border="1" width="318" height="478" /> 
 <br/>
 </details>
