@@ -6,31 +6,31 @@
 <br/>
 Xアイコンをタップしてください。
 <br/>
-<img src="./images/calendar_share_1.png" border="1" width="318" height="478" /> 
+<img src="./images/calendar_share_1.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
 シェア対象月に対し、シェア範囲を指定し、プレビューをタップしてください。
 <br/>
-<img src="./images/calendar_share_2.png" border="1" width="318" height="478" /> 
+<img src="./images/calendar_share_2.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
 シェア対象月のプレビュー画面が開き、レ点アイコンをタップしてください。
 <br/>
-<img src="./images/calendar_share_3.png" border="1" width="318" height="478" /> 
+<img src="./images/calendar_share_3.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
 シェア対象月が選択された状態で、「選択対象をシェア」をタップしてください。
 <br/>
-<img src="./images/calendar_share_4.png" border="1" width="318" height="478" /> 
+<img src="./images/calendar_share_4.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
 シェアする方法やシェア先のアプリを指定してください。
 <br/>
-<img src="./images/calendar_share_5.png" border="1" width="318" height="478" /> 
+<img src="./images/calendar_share_5.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
 ※例、Xにシェアする場合、Xアプリを選択し、表示されたダイアログに必要な文字を追加し、ポストをタップしてください。
 <br/>
-<img src="./images/calendar_share_6.png" border="1" width="318" height="478" /> 
+<img src="./images/calendar_share_6.png" border="1" width="318" height="689" /> 
 <br/>
 </details>

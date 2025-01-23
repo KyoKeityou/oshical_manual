@@ -6,16 +6,16 @@
 <br/>
 削除対象の予定をタップし、削除アイコンをタップしてください。
 <br/>
-<img src="./images/calendar_del_1.png" border="1" width="318" height="478" /> 
+<img src="./images/calendar_del_1.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
 表示されたダイアログを確認し、削除をタップしてください。
 <br/>
-<img src="./images/calendar_del_2.png" border="1" width="318" height="478" /> 
+<img src="./images/calendar_del_2.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
 予定が削除されます。
 <br/>
-<img src="./images/calendar_del_3.png" border="1" width="318" height="478" /> 
+<img src="./images/calendar_del_3.png" border="1" width="318" height="689" /> 
 <br/>
 </details>
