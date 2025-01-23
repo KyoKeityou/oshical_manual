@@ -1,5 +1,5 @@
 <details>
-<summary class="linkfont_color">Xアカウントでログイン</summary> 
+<summary class="linkfont_color">1.Xアカウントでログイン</summary> 
 アプリを開いてログイン画面で「X Twitterでログイン」をタップしてください。
 <br/>
 <img src="./images/login_x_1.png" border="1" width="318" height="689" /> 

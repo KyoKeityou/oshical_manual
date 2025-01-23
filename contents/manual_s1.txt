@@ -1,5 +1,5 @@
 <details>
-<summary class="linkfont_color">カレンダーから予定の閲覧</summary> 
+<summary class="linkfont_color">2.予定閲覧</summary> 
 アプリを開いてホーム画面で「カレンダー」をタップしてください。
 <br/>
 <img src="./images/home.png" border="1" width="318" height="689" /> 

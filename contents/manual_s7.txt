@@ -1,5 +1,5 @@
 <details>
-<summary class="linkfont_color">予定をピックアップする</summary> 
+<summary class="linkfont_color">8.予定ピックアップ</summary> 
 アプリを開いてホーム画面で「ピックアップ」をタップしてください。
 <br/>
 当月のカレンダーと予定一覧が表示されます。

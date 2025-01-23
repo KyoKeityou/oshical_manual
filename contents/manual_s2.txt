@@ -1,5 +1,5 @@
 <details>
-<summary class="linkfont_color">カレンダーへ予定の追加</summary> 
+<summary class="linkfont_color">3.予定追加</summary> 
 アプリを開いてホーム画面で「カレンダー」をタップしてください。
 <br/>
 当月のカレンダーと予定一覧が表示されます。

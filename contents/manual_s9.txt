@@ -1,39 +1,39 @@
 <details>
-<summary class="linkfont_color">アプリ設定</summary> 
+<summary class="linkfont_color">10.アプリ設定</summary> 
 アプリを開いてホーム画面で「設定」をタップしてください。
 <br/>
 設定画面では、以下の内容を設定することが可能です。
 <br/>
 <br/>
-1. 文字のフォントサイズ（小／中／大）の設定
+(1).文字のフォントサイズ（小／中／大）
 <br/>
 ※設定後、アプリを再起動してください。
 <br/>
 <img src="./images/setting_1.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
-2. テーマ色の設定
+(2).テーマ色
 <br/>
 ※設定後、アプリを再起動してください。
 <br/>
 <img src="./images/setting_2.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
-3. スケジュール画像保存の設定
+(3).スケジュール画像保存
 <br/>
 ※ONにする場合、カレンダーのプレビュー実施後に画像が端末の写真フォルダに保存されます。
 <br/>
 <img src="./images/setting_3.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
-4. アプリ起動時のログイン要否の設定
+(4).アプリ起動時のログイン要否
 <br/>
 ※OFFにする場合、アプリ起動時のログインが省略されます。
 <br/>
 <img src="./images/setting_4.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
-5. 生体認証ログインの設定
+(5).生体認証ログイン
 <br/>
 ※ONにする場合、アプリ起動時に生体認証（Face ID／指紋）でのログインが可能です。
 <br/>
@@ -45,14 +45,14 @@
 <img src="./images/setting_5_2.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
-6. 初期開始時刻・終了時刻の設定
+(6).開始時刻・終了時刻の初期値
 <br/>
 ※カレンダーへ予定を新規追加する時の開始時刻・終了時刻の初期値を設定します。
 <br/>
 <img src="./images/setting_6.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
-7. 予定をシェアする時の対象月範囲の設定
+(7).予定をシェアする時の対象月範囲
 <br/>
 ※初期設定として当月～翌月までの範囲であるが、翌々月・翌翌々月までの指定が可能です。
 <br/>
@@ -64,7 +64,7 @@
 <img src="./images/setting_7_2.png" border="1" width="318" height="689" /> 
 <br/>
 <br/>
-8. 予定をシェアする時の対象月範囲の設定
+(8).予定シェア／ピックアップ時のタイトル
 <br/>
 <img src="./images/setting_8_1.png" border="1" width="318" height="689" /> 
 <br/>

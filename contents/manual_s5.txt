@@ -1,5 +1,5 @@
 <details>
-<summary class="linkfont_color">予定を削除する</summary> 
+<summary class="linkfont_color">6.予定削除</summary> 
 アプリを開いてホーム画面で「カレンダー」をタップしてください。
 <br/>
 当月のカレンダーと予定一覧が表示されます。

@@ -1,5 +1,5 @@
 <details>
-<summary class="linkfont_color">予定をコピーする</summary> 
+<summary class="linkfont_color">5.予定コピー</summary> 
 アプリを開いてホーム画面で「カレンダー」をタップしてください。
 <br/>
 当月のカレンダーと予定一覧が表示されます。

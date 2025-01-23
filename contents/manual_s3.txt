@@ -1,5 +1,5 @@
 <details>
-<summary class="linkfont_color">カレンダーへ予定の更新</summary> 
+<summary class="linkfont_color">4.予定更新</summary> 
 アプリを開いてホーム画面で「カレンダー」をタップしてください。
 <br/>
 当月のカレンダーと予定一覧が表示されます。
