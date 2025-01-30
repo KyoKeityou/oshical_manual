@@ -1,0 +1,97 @@
+<details>
+<summary class="linkfont_color">11.他カレンダー</summary> 
+アプリを開いてホーム画面で「他カレンダー」をタップしてください。
+<br/>
+他カレンダーから、推しごとカレンダーへ予定を登録することが可能です。
+<br/>
+<br/>
+(1).個人Googleカレンダー
+<br/>
+「登録へ」をタップしてください。
+<br/>
+<img src="./images/other_calendar_1.png" border="1" width="318" height="689" /> 
+<br/>
+<br/>
+※初回の場合のみ、Googleアカウントログインと連携の許可が必要
+<br/>
+「続ける」をタップしてください。
+<br/>
+<img src="./images/other_calendar_2.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+Googleでログインするため、アカウント情報を入力してください。
+<br/>
+<img src="./images/other_calendar_3.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+「次へ」をタップしてください。
+<br/>
+<img src="./images/other_calendar_4.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+推しごとカレンダー がアクセスできる情報に対し、「Googleカレンダー」を選択してください。
+<br/>
+※Googleカレンダーを使用してアクセスできるすべてのカレンダーの参照、ダウンロードです。
+<br/>
+<img src="./images/other_calendar_5.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+「続行」をタップしてください。
+<br/>
+<img src="./images/other_calendar_6.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+Googleカレンダーに登録されている予定が表示されます。
+<br/>
+<img src="./images/other_calendar_7.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+推しごとカレンダーへ登録したい予定の行を選択し、「カレンダー」アイコンをタップしてください。
+<br/>
+※複数選択可能
+<br/>
+<img src="./images/other_calendar_8.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+「はい」をタップし、登録を完了してください。
+<br/>
+<img src="./images/other_calendar_9.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+ホーム画面の「カレンダー」から、登録された予定の閲覧ができます。
+<br/>
+<img src="./images/other_calendar_10.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+(2).公開カレンダー
+<br/>
+「公開カレンダー」を一つタップしてください。
+<br/>
+※例、「最高位戦日本プロ麻雀協会」
+<br/>
+<img src="./images/other_calendar_11.png" border="1" width="318" height="689" /> 
+<br/>
+<br/>
+最高位戦日本プロ麻雀協会で公開されている予定内容が表示されます。
+<br/>
+<img src="./images/other_calendar_12.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+推しごとカレンダーへ登録したい予定の行を選択し、「カレンダー」アイコンをタップしてください。
+<br/>
+※複数選択可能
+<br/>
+<img src="./images/other_calendar_13.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+「はい」をタップし、登録を完了してください。
+<br/>
+<img src="./images/other_calendar_14.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+ホーム画面の「カレンダー」から、登録された予定の閲覧ができます。
+<br/>
+<img src="./images/other_calendar_15.png" border="1" width="318" height="689" />
+<br/>
+<br/>
+</details>

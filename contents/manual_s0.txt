@@ -27,6 +27,6 @@ Xアカウントで、ログインを行ってください。
 <br/>
 ホーム画面が表示されます。
 <br/>
-<img src="./images/login_x_6.png" border="1" width="318" height="689" /> 
+<img src="./images/home.png" border="1" width="318" height="689" /> 
 <br/>
 </details>
